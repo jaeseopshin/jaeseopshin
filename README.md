@@ -1,5 +1,6 @@
 # 🌐 안녕하세요, 신재섭입니다.
 
+<img width="1105" height="1423" alt="Image" src="https://github.com/user-attachments/assets/8b70848f-6159-4d0e-83f3-4652d35728bd" />
 
 > **전자공학 전공의 논리적 분석력**과 **다양한 인프라/보안 프로젝트 리딩 경험**을 갖춘 준비된 엔지니어입니다.
 > Rocky Linux 기반 온프레미스 서버 환경 세팅부터 Cisco 장비를 활용한 네트워크 인프라 구축, 더 나아가 AWS 클라우드 아키텍처 설계 및 Terraform 기반 IaC 자동화 배포까지 인프라 전반의 생명주기를 이해하고 있습니다.
